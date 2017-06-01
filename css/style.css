@@ -1,9 +1,27 @@
+/*Added a background image.*/
+html {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHRUF-c4JtTvW-VImzg6EB-X7fBXF8YEmi0cLW93v56S9yzW0RubK") no-repeat center fixed; 
+    background-size: cover;
+}
+
+/* Changed the font-family to noto sans. Also changed the color to yellow. */
 body {
-  color:aqua;
-  font-family:Helvetica, Verdana, sans-serif;
-  /* No Major Changes Just Some Minor Ones for Fun ;) */
+  color:yellow;
+  font-family: 'Noto Sans', sans-serif;
 }
   
-h1 {
-  text-shadow: 15px 10px ;
+/* Removed the text shadow*/
+
+/*Added a background image.*/
+html {
+    background: url("media/french_open.jpeg") no-repeat center fixed; 
+    background-size: cover;
 }
+/*Added an orange background. Changed the color to black.*/
+.info {
+  background: #ffaf1a;
+  color: #383838;
+ }
+
+
+src ='media/funny-tennis-pic.jpg' 
