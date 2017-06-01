@@ -1,6 +1,6 @@
 /*Added a background image.*/
 html {
-    background: url(https://goo.gl/images/tc30Hh) no-repeat center fixed; 
+    background: url("https://goo.gl/images/tc30Hh") no-repeat center fixed; 
     background-size: cover;
 }
 
